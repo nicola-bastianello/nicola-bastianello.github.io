@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nicola Bastianello"
 title_separator          : "-"
 name                     : &name "Nicola Bastianello"
-description              : &description "Personal website of Nicola Bastianello."
+description              : &description "Nicola Bastianello's personal website."
 url                      : https://nicola-bastianello.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nicola-bastianello/nicola-bastianello.github.io"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  arxiv            : "https://arxiv.org/a/bastianello_n_1.html"
 
 
 # Reading Files
