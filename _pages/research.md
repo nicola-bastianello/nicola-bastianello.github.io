@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# Online optimization
+## Online optimization
 
 
-# Distributed optimization
+## Distributed optimization
