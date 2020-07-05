@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nicola Bastianello's personal website."
+title: "Home"
 excerpt: "I'm a PhD student in Information Engineering at the University of Padova, Italy."
 author_profile: true
 redirect_from: 
