@@ -12,7 +12,11 @@ author_profile: true
 
 - **N. Bastianello**, A. Ajalloeian, E. Dall'Anese. "Distributed and Inexact Proximal Gradient Method for Online Convex Optimization." Submitted to *IEEE Trans. Automatic Control* [arXiv](https://arxiv.org/abs/2001.00870)
 
-- **N. Bastianello**, R. Carli, L. Schenato, M. Todescato. "Asynchronous Distributed Optimization over Lossy Networks via Relaxed ADMM: Stability and Linear Convergence." Submitted to *IEEE Trans. Automatic Control* [arXiv](https://arxiv.org/abs/1901.09252)
+
+
+## 2021
+
+- **N. Bastianello**, R. Carli, L. Schenato, M. Todescato. "Asynchronous Distributed Optimization over Lossy Networks via Relaxed ADMM: Stability and Linear Convergence." *IEEE Trans. Automatic Control*, to appear [arXiv](https://arxiv.org/abs/1901.09252)
 
 
 
