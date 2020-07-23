@@ -16,7 +16,7 @@ author_profile: true
 
 ## 2021
 
-- **N. Bastianello**, R. Carli, L. Schenato, M. Todescato. "Asynchronous Distributed Optimization over Lossy Networks via Relaxed ADMM: Stability and Linear Convergence." *IEEE Trans. Automatic Control*, to appear [arXiv](https://arxiv.org/abs/1901.09252)
+- **N. Bastianello**, R. Carli, L. Schenato, M. Todescato. "Asynchronous Distributed Optimization over Lossy Networks via Relaxed ADMM: Stability and Linear Convergence." *IEEE Trans. Automatic Control*, to appear [arXiv](https://arxiv.org/abs/1901.09252) [link](https://ieeexplore.ieee.org/document/9146334)
 
 
 
