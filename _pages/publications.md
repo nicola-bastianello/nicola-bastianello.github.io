@@ -22,7 +22,7 @@ author_profile: true
 
 ## 2020
 
-- **N. Bastianello**, A. Simonetto, R. Carli. "Distributed Prediction-Correction ADMM for Time-Varying Convex Optimization." *54th Asilomar Conference on Signals, Systems and Computers*, Nov. 2020, to be presented
+- **N. Bastianello**, A. Simonetto, R. Carli. "Distributed Prediction-Correction ADMM for Time-Varying Convex Optimization." *54th Asilomar Conference on Signals, Systems and Computers*, Nov. 2020, to be presented [arXiv](https://arxiv.org/abs/2009.08335)
 
 - **N. Bastianello**, A. Simonetto, R. Carli. "Prediction-Correction Splittings for Time-Varying Optimization with Intermittent Observations." *IEEE Control Systems Letters*, vol. 4, no. 2, pp. 373-378, Apr. 2020 [link](https://ieeexplore.ieee.org/document/8770071)
 
