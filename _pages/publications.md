@@ -10,7 +10,7 @@ author_profile: true
 
 - **N. Bastianello**, A. Simonetto, R. Carli. "Primal and Dual Prediction-Correction Methods for Time-Varying Convex Optimization." Submitted to *SIAM Journal on Optimization* [arXiv](https://arxiv.org/abs/2004.11709)
 
-- **N. Bastianello**, A. Ajalloeian, E. Dall'Anese. "Distributed and Inexact Proximal Gradient Method for Online Convex Optimization." Submitted to *IEEE Trans. Automatic Control* [arXiv](https://arxiv.org/abs/2001.00870)
+- **N. Bastianello**, E. Dall'Anese. "Distributed and Inexact Proximal Gradient Method for Online Convex Optimization." [arXiv](https://arxiv.org/abs/2001.00870)
 
 
 
